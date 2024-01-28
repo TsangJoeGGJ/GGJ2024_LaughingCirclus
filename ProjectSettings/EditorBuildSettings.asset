@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/localGame/Scenes/local_MainScenes.unity
+    guid: 71cd97d99cc3a8e4c9055ab1d19184e6
+  - enabled: 1
+    path: Assets/localGame/LocalNetDiscovery/NetworkDiscoveryScenes.unity
+    guid: 4996756db6e33714b91d38f1dcf85c2f
+  - enabled: 1
+    path: Assets/localGame/Scenes/LobbyScenes.unity
+    guid: 2863593e406a5e94e8b679b61d5fa4f8
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 389273f9f0efaef44927a4b5b23e4b22
+  m_configObjects: {}
